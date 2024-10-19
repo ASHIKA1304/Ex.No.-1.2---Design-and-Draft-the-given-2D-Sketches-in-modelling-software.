@@ -37,6 +37,9 @@
 
  ## OUTPUT
  
+ [EDM [Exercise no.2] .pdf](https://github.com/user-attachments/files/17442582/EDM.Exercise.no.2.pdf)
+
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
