@@ -35,9 +35,9 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
- 
- [EDM [Exercise no.2] .pdf](https://github.com/user-attachments/files/17442582/EDM.Exercise.no.2.pdf)
+
+ ##output
+![image](https://github.com/user-attachments/assets/8d7ef616-c498-4cbe-aad7-f5d85080d299)
 
 
  
